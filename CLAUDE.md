@@ -23,6 +23,7 @@ Rules in `.claude/rules/` load automatically (communication style, trading analy
 Active workstreams live in `projects/`, one folder per project with a `README.md` (description, status, dates).
 - `projects/gold-mt5-ea/`: MQL5 EA for XAUUSD
 - `projects/tv-entry-indicator/`: Pine Script entry-signal indicator
+- `projects/trading-app/`: custom app (charts, Python indicators, algo bot) connected to Exness MT5
 
 ## Skills
 Skills live in `.claude/skills/`. Each skill gets a folder: `.claude/skills/skill-name/SKILL.md`.
